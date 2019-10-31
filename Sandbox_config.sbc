@@ -42,7 +42,7 @@
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
-    <EnableIngameScripts>false</EnableIngameScripts>
+    <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
