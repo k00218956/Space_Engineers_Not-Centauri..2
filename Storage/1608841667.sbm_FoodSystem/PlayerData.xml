@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfPlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerData>
+    <steamid>76561198276430330</steamid>
+    <hunger>8.281875</hunger>
+    <thirst>17.8461075</thirst>
+    <fatigue>100</fatigue>
+  </PlayerData>
+</ArrayOfPlayerData>
