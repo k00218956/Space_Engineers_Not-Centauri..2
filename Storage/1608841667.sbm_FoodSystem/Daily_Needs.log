@@ -1,585 +1,1863 @@
-[23:02:40] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:02:40] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:24:46] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:24:46] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>28.9316177</hunger>
-  <thirst>44.8603973</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:02:40] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:02:54] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:02:54] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.7416649</hunger>
-  <thirst>44.29054</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:02:54] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:02:59] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:02:59] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.6723251</hunger>
-  <thirst>44.08252</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:02:59] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:04] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:04] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.6029263</hunger>
-  <thirst>43.87432</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:04] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:23] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.33291</hunger>
-  <thirst>43.0642738</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:23] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:28] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.26348</hunger>
-  <thirst>42.8559761</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:28] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:33] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.1940155</hunger>
-  <thirst>42.6475868</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:33] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:38] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.124567</hunger>
-  <thirst>42.43924</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:38] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:43] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>28.0551262</hunger>
-  <thirst>42.2309151</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:43] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:48] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.9857</hunger>
-  <thirst>42.02264</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:48] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:53] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.9162617</hunger>
-  <thirst>41.8143234</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:53] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:03:58] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:03:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.8467674</hunger>
-  <thirst>41.6058426</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:03:58] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:04] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:04] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.7709389</hunger>
-  <thirst>41.3783531</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:04] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:09] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:09] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.7015667</hunger>
-  <thirst>41.1702347</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:09] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:14] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:14] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.6321049</hunger>
-  <thirst>40.96185</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:14] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:19] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:19] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.5626678</hunger>
-  <thirst>40.7535362</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:19] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:24] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:24] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.4932232</hunger>
-  <thirst>40.5452042</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:24] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:29] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:29] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.4237785</hunger>
-  <thirst>40.3368721</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:29] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:34] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:34] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.3543453</hunger>
-  <thirst>40.12857</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:34] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:39] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:39] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.2849083</hunger>
-  <thirst>100</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:39] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:44] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:44] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.2154942</hunger>
-  <thirst>99.79176</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:44] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:49] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:49] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.1461</hunger>
-  <thirst>99.58358</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:49] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:54] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:54] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.0766563</hunger>
-  <thirst>99.37525</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:54] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:04:59] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:04:59] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>27.007206</hunger>
-  <thirst>99.1669</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:04:59] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:04] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:04] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.9377785</hunger>
-  <thirst>98.95862</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:05:04] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:09] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:09] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.862524</hunger>
-  <thirst>98.73286</thirst>
-  <fatigue>99.9</fatigue>
-</PlayerData>
-[23:05:09] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:14] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:14] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.7930775</hunger>
-  <thirst>98.52451</thirst>
+  <hunger>47.4641533</hunger>
+  <thirst>62.1536827</thirst>
   <fatigue>99.8</fatigue>
 </PlayerData>
-[23:05:14] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:19] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:19] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:24:46] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:24:52] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:24:52] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.7236423</hunger>
-  <thirst>98.31621</thirst>
-  <fatigue>100</fatigue>
-</PlayerData>
-[23:05:19] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:25] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:25] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.64488</hunger>
-  <thirst>98.07992</thirst>
-  <fatigue>99.9</fatigue>
-</PlayerData>
-[23:05:25] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:30] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:30] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.5754375</hunger>
-  <thirst>97.87159</thirst>
-  <fatigue>99.8</fatigue>
-</PlayerData>
-[23:05:30] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:35] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:35] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.506</hunger>
-  <thirst>97.66328</thirst>
+  <hunger>47.3834457</hunger>
+  <thirst>61.9115639</thirst>
   <fatigue>99.7000046</fatigue>
 </PlayerData>
-[23:05:35] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:40] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:40] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:24:52] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:24:57] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:24:57] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.43502</hunger>
-  <thirst>97.45033</thirst>
+  <hunger>47.31077</hunger>
+  <thirst>61.6935349</thirst>
   <fatigue>99.6000061</fatigue>
 </PlayerData>
-[23:05:40] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:45] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:45] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:24:57] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:02] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:02] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.36563</hunger>
-  <thirst>97.2421646</thirst>
-  <fatigue>99.6000061</fatigue>
-</PlayerData>
-[23:05:45] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:50] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:50] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
-<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <steamid>76561198258945316</steamid>
-  <hunger>26.29618</hunger>
-  <thirst>97.03381</thirst>
+  <hunger>47.2413368</hunger>
+  <thirst>61.4852371</thirst>
   <fatigue>99.50001</fatigue>
 </PlayerData>
-[23:05:50] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:05:55] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:05:55] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:02] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:17] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:17] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.2267418</hunger>
-  <thirst>96.82549</thirst>
-  <fatigue>100</fatigue>
+  <hunger>47.02506</hunger>
+  <thirst>60.8364029</thirst>
+  <fatigue>99.40001</fatigue>
 </PlayerData>
-[23:05:55] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:00] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:00] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:17] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:22] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.1559772</hunger>
-  <thirst>96.613205</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.95562</hunger>
+  <thirst>60.62809</thirst>
+  <fatigue>99.30001</fatigue>
 </PlayerData>
-[23:06:00] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:05] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:05] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:22] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:27] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.0799732</hunger>
-  <thirst>96.38519</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.88617</hunger>
+  <thirst>60.419735</thirst>
+  <fatigue>99.20001</fatigue>
 </PlayerData>
-[23:06:05] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:10] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:10] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:27] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:32] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:32] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>26.0105247</hunger>
-  <thirst>96.17685</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.8166771</hunger>
+  <thirst>60.21126</thirst>
+  <fatigue>99.10001</fatigue>
 </PlayerData>
-[23:06:10] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:15] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:15] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:32] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:37] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:37] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.9411182</hunger>
-  <thirst>95.96863</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.7472954</hunger>
+  <thirst>60.00312</thirst>
+  <fatigue>99.0000153</fatigue>
 </PlayerData>
-[23:06:15] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:20] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:20] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:37] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:42] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:42] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.87167</hunger>
-  <thirst>95.76028</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.6778564</hunger>
+  <thirst>59.7948074</thirst>
+  <fatigue>98.90002</fatigue>
 </PlayerData>
-[23:06:20] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:25] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:25] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:42] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:47] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:47] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.8022175</hunger>
-  <thirst>95.55192</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.6083946</hunger>
+  <thirst>59.58642</thirst>
+  <fatigue>98.80002</fatigue>
 </PlayerData>
-[23:06:25] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:30] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:30] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:47] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:52] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:52] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.7327938</hunger>
-  <thirst>95.34364</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.5375252</hunger>
+  <thirst>59.373806</thirst>
+  <fatigue>98.70002</fatigue>
 </PlayerData>
-[23:06:30] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:35] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:35] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:52] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:25:57] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:25:57] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.66334</hunger>
-  <thirst>95.13528</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.4680862</hunger>
+  <thirst>59.165493</thirst>
+  <fatigue>98.60002</fatigue>
 </PlayerData>
-[23:06:35] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:40] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:40] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:25:57] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:02] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:02] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.5939</hunger>
-  <thirst>94.92696</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.39862</hunger>
+  <thirst>58.9570961</thirst>
+  <fatigue>98.50002</fatigue>
 </PlayerData>
-[23:06:40] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:45] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:45] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:02] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:10] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:10] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.5244656</hunger>
-  <thirst>94.71866</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.2893028</hunger>
+  <thirst>58.6291466</thirst>
+  <fatigue>98.4000244</fatigue>
 </PlayerData>
-[23:06:45] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:50] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:50] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:10] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:16] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:16] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.4550152</hunger>
-  <thirst>94.51031</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.21544</hunger>
+  <thirst>58.40755</thirst>
+  <fatigue>98.4000244</fatigue>
 </PlayerData>
-[23:06:50] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:06:55] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:06:55] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:16] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:21] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:21] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.385582</hunger>
-  <thirst>94.30201</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.14598</hunger>
+  <thirst>58.19918</thirst>
+  <fatigue>98.3000259</fatigue>
 </PlayerData>
-[23:06:55] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:00] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:00] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:21] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:26] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:26] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.3161488</hunger>
-  <thirst>94.0937042</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.0765572</hunger>
+  <thirst>57.9909058</thirst>
+  <fatigue>98.20003</fatigue>
 </PlayerData>
-[23:07:00] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:05] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:05] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:26] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:31] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:31] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.2466984</hunger>
-  <thirst>93.88535</thirst>
-  <fatigue>100</fatigue>
+  <hunger>46.00711</hunger>
+  <thirst>57.78257</thirst>
+  <fatigue>98.10003</fatigue>
 </PlayerData>
-[23:07:05] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:10] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:10] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:31] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:36] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:36] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.1772652</hunger>
-  <thirst>93.6770554</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.9376755</hunger>
+  <thirst>57.57427</thirst>
+  <fatigue>98.00003</fatigue>
 </PlayerData>
-[23:07:10] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:15] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:15] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:36] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:41] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:41] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.1078281</hunger>
-  <thirst>93.46874</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.86824</hunger>
+  <thirst>57.36596</thirst>
+  <fatigue>97.90003</fatigue>
 </PlayerData>
-[23:07:15] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:20] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:20] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:41] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:46] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:46] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>25.0383759</hunger>
-  <thirst>93.26038</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.79879</hunger>
+  <thirst>57.157608</thirst>
+  <fatigue>97.80003</fatigue>
 </PlayerData>
-[23:07:20] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:25] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:25] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:46] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:51] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:51] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.9689426</hunger>
-  <thirst>93.05208</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.7293472</hunger>
+  <thirst>56.9492836</thirst>
+  <fatigue>97.7000351</fatigue>
 </PlayerData>
-[23:07:25] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:30] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:30] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:51] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:26:56] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:26:56] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.8994751</hunger>
-  <thirst>92.84368</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.6599045</hunger>
+  <thirst>56.74096</thirst>
+  <fatigue>97.60004</fatigue>
 </PlayerData>
-[23:07:30] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:35] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:35] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:26:56] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:01] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:01] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.8300438</hunger>
-  <thirst>92.63539</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.59048</hunger>
+  <thirst>56.53269</thirst>
+  <fatigue>97.50004</fatigue>
 </PlayerData>
-[23:07:35] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:40] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:40] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:01] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:06] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:06] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.7605858</hunger>
-  <thirst>92.42702</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.52103</hunger>
+  <thirst>56.324337</thirst>
+  <fatigue>97.40004</fatigue>
 </PlayerData>
-[23:07:40] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:45] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:45] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:06] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:11] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:11] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.6911755</hunger>
-  <thirst>92.21879</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.47669</hunger>
+  <thirst>56.19131</thirst>
+  <fatigue>95.90004</fatigue>
 </PlayerData>
-[23:07:45] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:50] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:50] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:11] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:16] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:16] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.621727</hunger>
-  <thirst>92.0104446</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.43502</hunger>
+  <thirst>56.0663033</thirst>
+  <fatigue>94.40004</fatigue>
 </PlayerData>
-[23:07:50] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:07:55] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:07:55] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:16] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:21] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:21] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.5522938</hunger>
-  <thirst>91.80215</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.3643</hunger>
+  <thirst>55.8541451</thirst>
+  <fatigue>94.30004</fatigue>
 </PlayerData>
-[23:07:55] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:08:00] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:08:00] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:21] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:26] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:26] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.4828587</hunger>
-  <thirst>91.59384</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.29478</hunger>
+  <thirst>55.6455841</thirst>
+  <fatigue>94.20004</fatigue>
 </PlayerData>
-[23:08:00] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:08:05] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:08:05] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:26] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:31] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:31] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.4134064</hunger>
-  <thirst>91.38548</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.2254372</hunger>
+  <thirst>55.4375534</thirst>
+  <fatigue>94.1000443</fatigue>
 </PlayerData>
-[23:08:05] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:08:10] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:08:10] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:31] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:36] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:36] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.3439522</hunger>
-  <thirst>91.177124</thirst>
-  <fatigue>100</fatigue>
+  <hunger>45.1559944</hunger>
+  <thirst>55.22922</thirst>
+  <fatigue>94.0000458</fatigue>
 </PlayerData>
-[23:08:10] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:08:15] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:08:15] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:36] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:41] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:41] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.274519</hunger>
-  <thirst>90.96882</thirst>
+  <hunger>45.0865479</hunger>
+  <thirst>55.0208855</thirst>
   <fatigue>100</fatigue>
 </PlayerData>
-[23:08:15] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:08:20] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:08:20] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:41] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:46] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:46] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.20508</hunger>
-  <thirst>90.7605</thirst>
+  <hunger>45.017128</hunger>
+  <thirst>54.81263</thirst>
   <fatigue>100</fatigue>
 </PlayerData>
-[23:08:20] Rek.FoodSystem.PlayerDataLoaded to Client
-[23:08:25] Rek.FoodSystem.PlayerDataLoaded to Server
-[23:08:25] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+[20:27:46] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:51] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:51] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
 <PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <steamid>76561198258945316</steamid>
-  <hunger>24.13566</hunger>
-  <thirst>90.55224</thirst>
+  <hunger>44.9476547</hunger>
+  <thirst>54.60421</thirst>
   <fatigue>100</fatigue>
 </PlayerData>
-[23:08:25] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:51] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:56] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:56] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.8782043</hunger>
+  <thirst>54.39586</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:27:56] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:27:56] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:27:56] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.8782043</hunger>
+  <thirst>54.39586</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:27:56] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:01] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:01] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.8074036</hunger>
+  <thirst>54.1834564</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:01] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:06] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:06] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.7380676</hunger>
+  <thirst>53.9754524</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:06] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:11] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:11] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.6686478</hunger>
+  <thirst>53.76719</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:11] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:16] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:16] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.59921</hunger>
+  <thirst>53.5588722</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:16] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:21] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:21] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.52975</hunger>
+  <thirst>53.3504944</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:21] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:26] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:26] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.4603233</hunger>
+  <thirst>53.1422157</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:26] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:31] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:31] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.39087</hunger>
+  <thirst>52.9338531</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:31] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:36] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:36] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.32115</hunger>
+  <thirst>52.7246971</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:36] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:41] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:41] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.2519836</hunger>
+  <thirst>52.5171928</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:41] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:46] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:46] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.18252</hunger>
+  <thirst>52.3088036</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:46] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:51] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:51] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.11179</hunger>
+  <thirst>52.0966072</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:51] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:28:56] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:28:56] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.04238</hunger>
+  <thirst>51.8883858</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:28:56] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:01] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:01] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.97289</hunger>
+  <thirst>51.6799126</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:29:01] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:07] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:07] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.9251556</hunger>
+  <thirst>51.5367165</thirst>
+  <fatigue>98.5</fatigue>
+</PlayerData>
+[20:29:07] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:12] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:12] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.8558159</hunger>
+  <thirst>51.3286972</thirst>
+  <fatigue>98.5</fatigue>
+</PlayerData>
+[20:29:12] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:17] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:17] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.7863426</hunger>
+  <thirst>51.1202774</thirst>
+  <fatigue>98.4</fatigue>
+</PlayerData>
+[20:29:17] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:22] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.7169075</hunger>
+  <thirst>50.9119759</thirst>
+  <fatigue>98.3</fatigue>
+</PlayerData>
+[20:29:22] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:27] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.6474724</hunger>
+  <thirst>50.70367</thirst>
+  <fatigue>98.2000046</fatigue>
+</PlayerData>
+[20:29:27] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:32] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:32] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.6058121</hunger>
+  <thirst>50.5786934</thirst>
+  <fatigue>96.7000046</fatigue>
+</PlayerData>
+[20:29:32] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:37] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:37] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.5363541</hunger>
+  <thirst>50.3703232</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:29:37] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:42] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:42] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.4738655</hunger>
+  <thirst>50.18286</thirst>
+  <fatigue>97</fatigue>
+</PlayerData>
+[20:29:42] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:47] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:47] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.4113464</hunger>
+  <thirst>49.9953</thirst>
+  <fatigue>94</fatigue>
+</PlayerData>
+[20:29:47] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:52] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:52] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.3696938</hunger>
+  <thirst>49.8703423</thirst>
+  <fatigue>92.5</fatigue>
+</PlayerData>
+[20:29:52] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:29:57] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:29:57] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.3072052</hunger>
+  <thirst>49.68288</thirst>
+  <fatigue>89.5</fatigue>
+</PlayerData>
+[20:29:57] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:02] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:02] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.24469</hunger>
+  <thirst>49.49533</thirst>
+  <fatigue>86.5</fatigue>
+</PlayerData>
+[20:30:02] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:07] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:07] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.1740036</hunger>
+  <thirst>49.283268</thirst>
+  <fatigue>96.5</fatigue>
+</PlayerData>
+[20:30:07] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:17] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>30.93052</hunger>
+  <thirst>30.79156</thirst>
+  <fatigue>61</fatigue>
+</PlayerData>
+[20:30:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:22] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>30.8611965</hunger>
+  <thirst>30.5835915</thirst>
+  <fatigue>60.9</fatigue>
+</PlayerData>
+[20:30:22] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:27] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>30.8195343</hunger>
+  <thirst>30.4586048</thirst>
+  <fatigue>59.4</fatigue>
+</PlayerData>
+[20:30:27] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>30.7458916</hunger>
+  <thirst>100</thirst>
+  <fatigue>69.4</fatigue>
+</PlayerData>
+[20:30:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>50</hunger>
+  <thirst>99.78809</thirst>
+  <fatigue>79.4</fatigue>
+</PlayerData>
+[20:30:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.93057</hunger>
+  <thirst>99.5798</thirst>
+  <fatigue>79.3</fatigue>
+</PlayerData>
+[20:30:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.8611336</hunger>
+  <thirst>99.3715057</thirst>
+  <fatigue>79.2000046</fatigue>
+</PlayerData>
+[20:30:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.7900467</hunger>
+  <thirst>99.15825</thirst>
+  <fatigue>89.2000046</fatigue>
+</PlayerData>
+[20:30:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:30:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:30:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.72062</hunger>
+  <thirst>98.94996</thirst>
+  <fatigue>89.2000046</fatigue>
+</PlayerData>
+[20:30:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.651165</hunger>
+  <thirst>98.7416</thirst>
+  <fatigue>89.1000061</fatigue>
+</PlayerData>
+[20:31:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.58172</hunger>
+  <thirst>98.53326</thirst>
+  <fatigue>89.00001</fatigue>
+</PlayerData>
+[20:31:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.51228</hunger>
+  <thirst>98.3249359</thirst>
+  <fatigue>88.90001</fatigue>
+</PlayerData>
+[20:31:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.4428635</hunger>
+  <thirst>98.11669</thirst>
+  <fatigue>88.80001</fatigue>
+</PlayerData>
+[20:31:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.3734169</hunger>
+  <thirst>97.9083557</thirst>
+  <fatigue>88.70001</fatigue>
+</PlayerData>
+[20:31:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.3039246</hunger>
+  <thirst>97.69988</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:31:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.2345352</hunger>
+  <thirst>97.4917145</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:31:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.1928673</hunger>
+  <thirst>97.36671</thirst>
+  <fatigue>98.5</fatigue>
+</PlayerData>
+[20:31:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.1512032</hunger>
+  <thirst>97.24171</thirst>
+  <fatigue>97</fatigue>
+</PlayerData>
+[20:31:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.1095238</hunger>
+  <thirst>97.11666</thirst>
+  <fatigue>95.5</fatigue>
+</PlayerData>
+[20:31:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>49.04013</hunger>
+  <thirst>96.9084854</thirst>
+  <fatigue>95.4</fatigue>
+</PlayerData>
+[20:31:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:31:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:31:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.9706879</hunger>
+  <thirst>96.70016</thirst>
+  <fatigue>95.3</fatigue>
+</PlayerData>
+[20:31:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.9012375</hunger>
+  <thirst>96.491806</thirst>
+  <fatigue>95.2000046</fatigue>
+</PlayerData>
+[20:32:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.8317833</hunger>
+  <thirst>96.28345</thirst>
+  <fatigue>95.1000061</fatigue>
+</PlayerData>
+[20:32:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.7623672</hunger>
+  <thirst>96.0752</thirst>
+  <fatigue>95.00001</fatigue>
+</PlayerData>
+[20:32:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.6928825</hunger>
+  <thirst>95.86675</thirst>
+  <fatigue>94.90001</fatigue>
+</PlayerData>
+[20:32:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.62347</hunger>
+  <thirst>95.6585159</thirst>
+  <fatigue>94.80001</fatigue>
+</PlayerData>
+[20:32:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.5540276</hunger>
+  <thirst>95.45019</thirst>
+  <fatigue>94.70001</fatigue>
+</PlayerData>
+[20:32:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.4845963</hunger>
+  <thirst>95.2419</thirst>
+  <fatigue>94.60001</fatigue>
+</PlayerData>
+[20:32:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.4151573</hunger>
+  <thirst>95.03358</thirst>
+  <fatigue>94.5000153</fatigue>
+</PlayerData>
+[20:32:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.3456955</hunger>
+  <thirst>94.8251953</thirst>
+  <fatigue>94.40002</fatigue>
+</PlayerData>
+[20:32:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.27627</hunger>
+  <thirst>94.61692</thirst>
+  <fatigue>94.30002</fatigue>
+</PlayerData>
+[20:32:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.20682</hunger>
+  <thirst>94.40857</thirst>
+  <fatigue>94.20002</fatigue>
+</PlayerData>
+[20:32:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:32:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:32:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.1373863</hunger>
+  <thirst>94.200264</thirst>
+  <fatigue>94.10002</fatigue>
+</PlayerData>
+[20:32:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>48.06791</hunger>
+  <thirst>93.99183</thirst>
+  <fatigue>94.10002</fatigue>
+</PlayerData>
+[20:33:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.9984932</hunger>
+  <thirst>93.78358</thirst>
+  <fatigue>94.00002</fatigue>
+</PlayerData>
+[20:33:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.92907</hunger>
+  <thirst>93.5753</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.859623</hunger>
+  <thirst>93.36696</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.7901764</hunger>
+  <thirst>93.1586151</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.7207451</hunger>
+  <thirst>92.95032</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.65131</hunger>
+  <thirst>92.74201</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.58188</hunger>
+  <thirst>92.5337143</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.5124245</hunger>
+  <thirst>92.3253555</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.44297</hunger>
+  <thirst>92.117</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.3735237</hunger>
+  <thirst>91.90865</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:33:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:33:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.3041077</hunger>
+  <thirst>91.70041</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:33:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.2346725</hunger>
+  <thirst>91.4921</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.16183</hunger>
+  <thirst>91.2735748</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.092308</hunger>
+  <thirst>91.06501</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>47.02293</hunger>
+  <thirst>90.85688</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.95349</hunger>
+  <thirst>90.64856</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.8841057</hunger>
+  <thirst>90.44041</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.8146629</hunger>
+  <thirst>90.23207</thirst>
+  <fatigue>99.9</fatigue>
+</PlayerData>
+[20:34:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.7452164</hunger>
+  <thirst>90.02373</thirst>
+  <fatigue>99.8</fatigue>
+</PlayerData>
+[20:34:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.67577</hunger>
+  <thirst>89.81539</thirst>
+  <fatigue>99.7000046</fatigue>
+</PlayerData>
+[20:34:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.6063</hunger>
+  <thirst>89.60698</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:34:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.56465</hunger>
+  <thirst>89.48204</thirst>
+  <fatigue>98.5</fatigue>
+</PlayerData>
+[20:34:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:34:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:34:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.495224</hunger>
+  <thirst>89.27375</thirst>
+  <fatigue>98.4</fatigue>
+</PlayerData>
+[20:34:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.42578</hunger>
+  <thirst>89.06543</thirst>
+  <fatigue>98.3</fatigue>
+</PlayerData>
+[20:35:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.3563271</hunger>
+  <thirst>88.85707</thirst>
+  <fatigue>98.2000046</fatigue>
+</PlayerData>
+[20:35:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.2868919</hunger>
+  <thirst>88.64877</thirst>
+  <fatigue>98.1000061</fatigue>
+</PlayerData>
+[20:35:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.2174454</hunger>
+  <thirst>88.44043</thirst>
+  <fatigue>98.00001</fatigue>
+</PlayerData>
+[20:35:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.148</hunger>
+  <thirst>88.23209</thirst>
+  <fatigue>97.90001</fatigue>
+</PlayerData>
+[20:35:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.07856</hunger>
+  <thirst>88.02378</thirst>
+  <fatigue>97.80001</fatigue>
+</PlayerData>
+[20:35:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>46.00911</hunger>
+  <thirst>87.81544</thirst>
+  <fatigue>97.70001</fatigue>
+</PlayerData>
+[20:35:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.93969</hunger>
+  <thirst>87.60718</thirst>
+  <fatigue>97.60001</fatigue>
+</PlayerData>
+[20:35:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.8702469</hunger>
+  <thirst>87.39885</thirst>
+  <fatigue>97.5000153</fatigue>
+</PlayerData>
+[20:35:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.8007851</hunger>
+  <thirst>87.19047</thirst>
+  <fatigue>97.40002</fatigue>
+</PlayerData>
+[20:35:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.738266</hunger>
+  <thirst>87.0029144</thirst>
+  <fatigue>94.40002</fatigue>
+</PlayerData>
+[20:35:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:35:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:35:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.6688652</hunger>
+  <thirst>86.79471</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:35:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.59944</hunger>
+  <thirst>86.58643</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.5300026</hunger>
+  <thirst>86.37811</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.4605141</hunger>
+  <thirst>86.16964</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.39108</hunger>
+  <thirst>85.9613342</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.3216171</hunger>
+  <thirst>85.7529449</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.2522469</hunger>
+  <thirst>85.54483</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.1828041</hunger>
+  <thirst>85.3365</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.1133652</hunger>
+  <thirst>85.12818</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>45.0439072</hunger>
+  <thirst>84.9198151</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.97448</hunger>
+  <thirst>84.71153</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.9050369</hunger>
+  <thirst>84.5032043</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:36:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:36:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.835598</hunger>
+  <thirst>84.29488</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:36:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.7661667</hunger>
+  <thirst>84.086586</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.69673</hunger>
+  <thirst>83.87828</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.6272736</hunger>
+  <thirst>83.66991</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.55783</hunger>
+  <thirst>83.46158</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.488327</hunger>
+  <thirst>83.2530746</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.4189529</hunger>
+  <thirst>83.04496</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.3495026</hunger>
+  <thirst>82.83661</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.2800636</hunger>
+  <thirst>82.62829</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.2106133</hunger>
+  <thirst>82.41994</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.140873</hunger>
+  <thirst>82.21072</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.0716934</hunger>
+  <thirst>82.0031738</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:37:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:37:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>44.0022964</hunger>
+  <thirst>81.79498</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:37:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.9328575</hunger>
+  <thirst>81.58666</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.86342</hunger>
+  <thirst>81.37835</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.7939453</hunger>
+  <thirst>81.16992</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.7245026</hunger>
+  <thirst>80.96159</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.655098</hunger>
+  <thirst>80.75338</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.58566</hunger>
+  <thirst>80.54507</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.5162</hunger>
+  <thirst>80.33669</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.4467239</hunger>
+  <thirst>80.1282654</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.37735</hunger>
+  <thirst>79.92014</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.3079</hunger>
+  <thirst>79.71179</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.2384644</hunger>
+  <thirst>79.50349</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:38:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:38:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.1689949</hunger>
+  <thirst>79.29508</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:38:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.0995827</hunger>
+  <thirst>79.0868454</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>43.0270653</hunger>
+  <thirst>78.86929</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.95763</hunger>
+  <thirst>78.6609955</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.8882141</hunger>
+  <thirst>78.45275</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.81877</hunger>
+  <thirst>78.24443</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.7492867</hunger>
+  <thirst>78.03598</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.6798859</hunger>
+  <thirst>77.82778</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.610405</hunger>
+  <thirst>77.61934</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.5410233</hunger>
+  <thirst>77.41119</thirst>
+  <fatigue>99.9</fatigue>
+</PlayerData>
+[20:39:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.4715767</hunger>
+  <thirst>77.20284</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.4021263</hunger>
+  <thirst>76.9944839</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:39:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:39:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:39:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.3326645</hunger>
+  <thirst>76.7860947</thirst>
+  <fatigue>99.9</fatigue>
+</PlayerData>
+[20:39:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.2632637</hunger>
+  <thirst>76.5778961</thirst>
+  <fatigue>99.8</fatigue>
+</PlayerData>
+[20:40:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.19382</hunger>
+  <thirst>76.3695755</thirst>
+  <fatigue>99.7000046</fatigue>
+</PlayerData>
+[20:40:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.12438</hunger>
+  <thirst>76.1612549</thirst>
+  <fatigue>99.6000061</fatigue>
+</PlayerData>
+[20:40:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>42.054924</hunger>
+  <thirst>75.9528961</thirst>
+  <fatigue>99.50001</fatigue>
+</PlayerData>
+[20:40:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.98545</hunger>
+  <thirst>75.7444839</thirst>
+  <fatigue>99.40001</fatigue>
+</PlayerData>
+[20:40:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.9160538</hunger>
+  <thirst>75.5362854</thirst>
+  <fatigue>99.30001</fatigue>
+</PlayerData>
+[20:40:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.84661</hunger>
+  <thirst>75.32796</thirst>
+  <fatigue>99.20001</fatigue>
+</PlayerData>
+[20:40:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.7771339</hunger>
+  <thirst>75.11952</thirst>
+  <fatigue>99.10001</fatigue>
+</PlayerData>
+[20:40:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.70772</hunger>
+  <thirst>74.9112854</thirst>
+  <fatigue>99.0000153</fatigue>
+</PlayerData>
+[20:40:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.6382866</hunger>
+  <thirst>74.70298</thirst>
+  <fatigue>98.90002</fatigue>
+</PlayerData>
+[20:40:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.5688553</hunger>
+  <thirst>74.49468</thirst>
+  <fatigue>98.80002</fatigue>
+</PlayerData>
+[20:40:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:40:58] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:40:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.4994049</hunger>
+  <thirst>74.28633</thirst>
+  <fatigue>98.70002</fatigue>
+</PlayerData>
+[20:40:58] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:03] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.429966</hunger>
+  <thirst>74.07801</thirst>
+  <fatigue>98.60002</fatigue>
+</PlayerData>
+[20:41:03] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:08] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.3606339</hunger>
+  <thirst>73.87001</thirst>
+  <fatigue>98.50002</fatigue>
+</PlayerData>
+[20:41:08] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:13] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.2911758</hunger>
+  <thirst>73.661644</thirst>
+  <fatigue>98.4000244</fatigue>
+</PlayerData>
+[20:41:13] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:18] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.22175</hunger>
+  <thirst>73.45336</thirst>
+  <fatigue>98.3000259</fatigue>
+</PlayerData>
+[20:41:18] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:23] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.152317</hunger>
+  <thirst>73.24506</thirst>
+  <fatigue>98.20003</fatigue>
+</PlayerData>
+[20:41:23] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:28] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.0828552</hunger>
+  <thirst>73.0366745</thirst>
+  <fatigue>98.10003</fatigue>
+</PlayerData>
+[20:41:28] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:33] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>41.0134239</hunger>
+  <thirst>72.82838</thirst>
+  <fatigue>98.00003</fatigue>
+</PlayerData>
+[20:41:33] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:38] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.94399</hunger>
+  <thirst>72.62007</thirst>
+  <fatigue>97.90003</fatigue>
+</PlayerData>
+[20:41:38] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:43] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.8745537</hunger>
+  <thirst>72.41176</thirst>
+  <fatigue>97.80003</fatigue>
+</PlayerData>
+[20:41:43] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:48] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.8051071</hunger>
+  <thirst>72.2034149</thirst>
+  <fatigue>97.7000351</fatigue>
+</PlayerData>
+[20:41:48] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:53] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.7425652</hunger>
+  <thirst>72.0157852</thirst>
+  <fatigue>94.7000351</fatigue>
+</PlayerData>
+[20:41:53] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:41:59] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:41:59] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.66865</hunger>
+  <thirst>71.7940445</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:41:59] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:42:04] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:42:04] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.5992126</hunger>
+  <thirst>71.5857239</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:42:04] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:42:09] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:42:09] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.52895</hunger>
+  <thirst>71.37493</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:42:09] Rek.FoodSystem.PlayerDataLoaded to Client
+[20:42:14] Rek.FoodSystem.PlayerDataLoaded to Server
+[20:42:14] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198258945316</steamid>
+  <hunger>40.4603081</hunger>
+  <thirst>71.16901</thirst>
+  <fatigue>100</fatigue>
+</PlayerData>
+[20:42:14] Rek.FoodSystem.PlayerDataLoaded to Client
