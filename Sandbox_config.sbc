@@ -117,13 +117,5 @@
       <Name>1907437237.sbm</Name>
       <PublishedFileId>1907437237</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="Daily Needs Survival Kit  - Survival Needs for Space">
-      <Name>1608841667.sbm</Name>
-      <PublishedFileId>1608841667</PublishedFileId>
-    </ModItem>
   </Mods>
 </MyObjectBuilder_WorldConfiguration>
